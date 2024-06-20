@@ -1,4 +1,4 @@
-# ozh.org
+## ozh.org
 
 Just the file for the root page of http://ozh.org.
 Nothing genius, just a bit of javascript fun. Feel free to steal.
